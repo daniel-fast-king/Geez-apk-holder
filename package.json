@@ -1,0 +1,11 @@
+{
+  "name": "geez-calculator",
+  "displayName": "Geez Calculator",
+  "version": "1.0.0",
+  "description": "Calculator with real Ge'ez numerals",
+  "license": "MIT",
+  "scripts": {
+    "build": "cordova build android --debug"
+  },
+  "cordova": { "platforms": [] }
+}
